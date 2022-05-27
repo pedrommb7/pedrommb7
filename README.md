@@ -1,5 +1,5 @@
 👋 Hi, I’m @pedrommb7
-👀 I’m interested in giving life to projects created by UX/UI developers
+👀 I’m interested in giving life to projects created by UX/UI designers
 🌱 I’m currently learning React
 📫 How to reach me: 2014.itm.pedrobarbosa@gmail.com
 
